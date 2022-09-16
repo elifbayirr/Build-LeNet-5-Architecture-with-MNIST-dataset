@@ -6,4 +6,6 @@ The code is in the "2.implementation" file.
 You do not need to import the dataset, it will be imported by itself because of the library.
       thanks to this line: from keras.datasets import mnist
       
-(https://notebook.community/leaxp/mdl/LeNet/mnist_lenet_nb)
+![alt text](https://notebook.community/leaxp/mdl/LeNet/mnist_lenet_nb)
+
+
